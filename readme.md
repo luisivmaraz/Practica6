@@ -24,7 +24,7 @@ Este proyecto forma parte de la asignatura **"Extracción de Conocimientos de Ba
 ## 🧪 Contenido del Notebook
 
 1. **Importación de Librerías:** Se importan todas las librerías necesarias para el análisis y procesamiento de datos.
-2. **Carga de Datos:** Lectura de archivos Excel o CSV para análisis posterior.
+2. **Carga de Datos:** Lectura de archivos CSV para análisis posterior.
 3. **Limpieza de Datos:** 
    - Manejo de valores nulos
    - Conversión de tipos de datos
